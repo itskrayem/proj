@@ -10,7 +10,7 @@
 
 body {
     padding-top: 8%;
-    background-image:url("/Users/hasankrayem/vscode/binary brains/data/Sequence 01.gif") ;
+    background-image:url("/data/Sequence 01.gif") ;
     background-repeat: repeat;
     display: flex;
     flex-direction: column;
